@@ -49,6 +49,7 @@ Users should be able to:
 - [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
 - [Styled Components](https://styled-components.com/) - For styles
+- **Webpack & Babel** - Configured to transpile and bundle the project for compatibility with older browsers (using `@babel/preset-env` and relevant polyfills)
 
 
 ## Author
